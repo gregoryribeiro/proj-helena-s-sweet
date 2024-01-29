@@ -1,0 +1,24 @@
+1 - aviso de envio (frete)
+
+2 - nav bar com = minha conta | produtos | sobre envios | sobre nos | politicas de privacidade
+
+3 - div com logo da marca e carrinho de compras
+
+4 - nav bar com = tipos de produtos 
+
+5 - div com imagem chamativa 
+
+6 - 3 blocos com avisos (se necessario)
+
+7 - abaixo os produtos com fotos, nome, peso e valor
+    produtos clicaveis que abrem pagina especifica do produto com imagem e descricao, preco, se esta em estoque
+    quantidade para comprar, botao de compra e redes socias abaixo
+
+    abaixo na pagina de compra do produto aparecer produtos relacionados (4)
+
+    manter os numero 1, 2, 3, 4 na pagina de compra
+
+    quando adiciona produtos ao carrinho aparece um aviso abaixo do numero 4 
+
+
+8 - carrinho abre uma aba lateral
