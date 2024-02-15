@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.frete {
+    background-color: rgb(182, 111, 25);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+#main-menu .nav-bar { 
+    list-style:none;
+    margin-top: 40px; 
+    display: flex;
+    justify-content: center;
+
+}
+
+
+#main-menu .nav-bar li { 
+    display:inline;
+    padding:0 50px; 
+  
+   
+}
+
+#main-menu .nav-bar li a {
+  text-decoration: none;
+  padding-left: 25px;
+  
+  text-transform: uppercase;
+  color: #333;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+#block-3 .nav-logoCarrinhoCompras { 
+    list-style:none;
+    margin-top: 10px; 
+    display: flex;
+    justify-content: center;
+  
+}
+
+#block-3 .nav-logoCarrinhoCompras li { 
+    display: inline;
+    padding: 0 30%;
+
+}
+
+#block-3 .nav-logoCarrinhoCompras li a { 
+    text-decoration: none;
+    
+
+}
+
+#block-3 .nav-logoCarrinhoCompras #carrinhoCompra {
+    margin-top: 5%;
+}
+
+#block-3 .nav-logoCarrinhoCompras #logo {
+    margin-left: 20px;
+}
+
+#main-cookies .nav-cookies{
+    list-style:none;
+    margin-top: 40px; 
+    display: flex;
+    justify-content: center;
+}
+
+#main-cookies .nav-cookies li {
+    display: inline-flex;
+    padding: 0 50px;
+    border: rgb(93, 57, 3) solid 2px;
+    height: 30px;
+    width: 210px;
+    justify-content: center;
+    align-items: center;
+    background-color: coral;
+    
+    
+}
+
+#main-cookies .nav-cookies li a {
+    text-decoration: none;
+    padding-left: 25px;
+    text-transform: uppercase;
+    color: azure;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+#cookies .photo-cookie {
+    min-width: 400px;
+    padding: 10px 5px;
+    display: flex;
+  
+
+}
